@@ -1,4 +1,4 @@
-# Starting point
+# replika-ublue
 
 [![build-ublue](https://github.com/evereplika/replika-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/evereplika/replika-ublue/actions/workflows/build.yml)
 
